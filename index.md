@@ -5,52 +5,42 @@ description: This is my site. Welcome.
 keywords: github pages, Jekyll, foundation 5
 ---
 
-<h1 class="mvl">Whoa! Jekyll, Foundation 5, HTML5 boiler plate and github pages!</h1>
+<!-- <h1 class="mvl">Whoa! Jekyll, Foundation 5, HTML5 boiler plate and github pages!</h1> -->
 
 
 <div class="row">
-	<div class="medium-9 large-7 small-centered column">
+    <div class="medium-3 panel columns" style="height: 200px"></div>
+	<div class="medium-9 column">
 		
-		<p class="mbm">I've combined my locally installed <a href="http://foundation.zurb.com/docs/sass.html">Sass version of foundation 5</a>, <a href="http://html5boilerplate.com/">html5 boilder plate</a>, and Jekyll to be used for github pages! See <a href="http://jekyllrb.com/docs/home/">Jekyll's documentation</a>, <a href="http://foundation.zurb.com/docs/">the foundation documentations</a>, and <a href="https://help.github.com/categories/20/articles">GitHub pages help pages</a>.</p>
+		<p class="mbm">I'm a first year PhD student in the <a href="http://ece.ucsd.edu">ECE department</a> at UCSD, majoring in Intelligent Systems. I currently work in <a href="http://www.stanford.edu/~gilja/">Vikash Gilja's</a> Translational Neural Engineering Lab, studying signal processing and machine learning techniques for brain machine interfaces. I am generally interested in applying machine learning to challenging engineering problems. In my undergraduate career I worked in <a href="http://cs.berkeley.edu/~pabbeel/">Pieter Abbeel's</a> Robot Learning Lab.
+        </p>
+	</div>
+</div>
 
-		<p class="mbl">You can see all <a href="https://github.com/daigofuji/jekyll-foundation-5-starter/tree/gh-pages"><i class="fa fa-github"> 	
-		</i> my sources here</a>. I created this for my personal use, but if you'd like to use it, please feel free. Shout out <a href="http://daigo.org">daigo.org</a> or <a href="http://twitter.com/DaigoFuji">@DaigoFuji</a> are appreciated, but not required.</p>
-
-		<div class="panel radius mvl">
-			<p>You should probably update the <samp>_config.yml</samp> file, and edit <samp>scss/_setting.scss</samp> file. As well as <samp>scss/_custom.scss</samp>, where most the overrides are happening.</p>
-		</div>
-
-
+<div class="row">
+	<div class="medium-9 column">
+		
+		<p class="mbm">I'm passionate about education, both learning as well as teaching. I have studied a broad variety of topics under the umbrellas of electrical engineering and computer science. I also taught the introductory signal processing (EE20) and circuits (EE40) courses at Berkeley. I was fortunate enough to work on the <a href="https://github.com/edx/edx-platform/commits?author=ibrahima">initial development</a> of the <a href="https://www.edx.org">EdX</a> discussion forums for its launch in fall 2012.</p>
+        <p>Along with my colleagues, I developed <a href="https://pandagrader.com">Pandagrader</a>, a system for facilitating electronic grading of handwritten assignments. Pandagrader has been used by over 50 courses at Berkeley and other institutions, to universally positive reviews from instructors and students alike. I strongly believe in the power of technology to improve the accessibility and quality of education, whether in the context of online education or local instruction.</p>
 
 	</div>
+
+    <div class="medium-3 panel columns" style="height: 200px"></div>
 </div>
 
 
 <div class="row"> 
 
 	<div class="large-4 columns">
-		<p><a href="page-html-unit-test.html">foundation-example.html</a> shows how all the html tags are rendered. Foundation takes care of those out of the box.</p>
+		<p>I enjoy exploring the beauty of nature, and capturing it with photography. I've also recently picked up running, though I'm far from a marathon runner (maybe someday!).</p>
 	</div>
 
 	<div class="large-4 columns">
-		<p>Another example are shown in <a href="page-foundation-example.html">foundation-example.html</a>. </p>
+		<p>I enjoy web development as an interesting diversion. Web technologies these days have a very low barrier to entry, which makes it easy to pick up and do something interesting in a short period of time.</p>
 	</div>
 
 	<div class="large-4 columns">
-		<p>And finally, foundation's grid system, <a href="page-template-example.html">page-template-example</a> You can also <a href="http://foundation.zurb.com/templates.html">get more templates</a> from foundations home.</p>
+		<p>Modern frameworks make it easy for someone like me with no design skill to make something look decent in a pinch.</p>
 	</div>
 
-</div>
-
-<div class="row">
-	<div class="medium-9 large-7 small-centered column">
-	
-		<p class="mvl">And out of the box, this supports <a href="http://fortawesome.github.io/Font-Awesome/">
-		<i class="fa fa-flag fa-lg">	
-		</i>
-		font awesome</a>, so you can go crazy with <a href="http://fortawesome.github.io/Font-Awesome/icons/">the icons</a>: <i class="fa fa-bitcoin fa-lg">	
-		</i> <i class="fa fa-cog fa-spin fa-lg">
-		</i>. </p> 
-
-	</div>
 </div>
