@@ -12,7 +12,7 @@ keywords: github pages, Jekyll, foundation 5
     <div class="medium-3 panel columns" style="height: 200px"></div>
     <div class="medium-9 column">
 
-        <p class="mbm">I'm a second year PhD student in the <a href="http://ece.ucsd.edu">ECE department</a> at UCSD, majoring in Intelligent Systems. I am generally interested in applying machine learning to challenging engineering problems. In my undergraduate career I worked in <a href="http://cs.berkeley.edu/~pabbeel/">Pieter Abbeel's</a> Robot Learning Lab.
+        <p class="mbm">I'm a second year PhD student in the <a href="http://ece.ucsd.edu">ECE department</a> at UCSD, majoring in Intelligent Systems. I work in <a href="http://cseweb.ucsd.edu/~trosing/">Professor Tajana Rosing's</a> <a href="http://seelab.ucsd.edu/">System Energy Efficiency Lab</a>, focusing on workload characterization for mobile devices and the internet of things. I am generally interested in applying machine learning to challenging engineering problems. In my undergraduate career I worked in <a href="http://cs.berkeley.edu/~pabbeel/">Pieter Abbeel's</a> Robot Learning Lab.
         </p>
     </div>
 </div>
@@ -32,15 +32,15 @@ keywords: github pages, Jekyll, foundation 5
 <div class="row">
 
     <div class="large-4 columns">
-        <p>I enjoy exploring the beauty of nature, and capturing it with photography. I've also recently picked up running, though I'm far from a marathon runner (maybe someday!). Currently I'm aiming to run a half marathon in summer 2015.</p>
+    <p>I enjoy exploring the beauty of nature, and capturing it with photography. I've also recently picked up running, though I'm far from a marathon runner (maybe someday!). Currently I'm aiming to run a half marathon in summer 2015.</p>
     </div>
 
     <div class="large-4 columns">
-        <p>I enjoy web development as an interesting diversion. Web technologies these days have a very low barrier to entry, which makes it easy to pick up and do something interesting in a short period of time.</p>
+        <p>I do some hobbyist web development on the side. Web technologies these days have a very low barrier to entry, which makes it easy to pick up and do something interesting in a short span of time. And the evolution in this space is rapid so there's always something new to learn!</p>
     </div>
 
     <div class="large-4 columns">
-        <p>Modern frameworks make it easy for someone like me with no design skill to make something look decent in a pinch.</p>
+        <p></p>
     </div>
 
 </div>
