@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome!
+title: Ibrahim Awwal
 description: This is my site. Welcome.
 keywords: github pages, Jekyll, foundation 5
 ---
@@ -32,7 +32,7 @@ keywords: github pages, Jekyll, foundation 5
 <div class="row">
 
     <div class="large-4 columns">
-    <p>I enjoy exploring the beauty of nature, and capturing it with photography. I've also recently picked up running, though I'm far from a marathon runner (maybe someday!). Currently I'm aiming to run a half marathon in summer 2015.</p>
+    <p>I enjoy exploring the beauty of nature, and capturing it with photography. I've also recently picked up distance running, though I'm far from a marathon runner (maybe someday!). Currently I'm aiming to run a half marathon in summer 2015.</p>
     </div>
 
     <div class="large-4 columns">
