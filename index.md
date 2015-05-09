@@ -6,7 +6,7 @@ keywords: github pages, Jekyll, foundation 5
 ---
 
 <div class="row">
-    <div class="medium-3 panel columns" style="height: 200px"></div>
+    <div class="medium-3 panel columns" style="height: 200px"><img src="headshot.jpg" alt="Ibrahim Awwal"/></div>
     <div class="medium-9 column">
 
         <p class="mbm">I'm a second year PhD student in the <a href="http://ece.ucsd.edu">ECE department</a> at UCSD, majoring in Intelligent Systems. I work in <a href="http://cseweb.ucsd.edu/~trosing/">Professor Tajana Rosing's</a> <a href="http://seelab.ucsd.edu/">System Energy Efficiency Lab</a>, focusing on workload characterization for mobile devices and the internet of things. I am generally interested in applying machine learning to challenging engineering problems. In my undergraduate career I worked in <a href="http://cs.berkeley.edu/~pabbeel/">Pieter Abbeel's</a> Robot Learning Lab.
