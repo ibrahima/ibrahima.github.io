@@ -22,7 +22,7 @@ keywords: github pages, Jekyll, foundation 5
 
     </div>
 
-    <div class="medium-3 panel columns" style="height: 200px"></div>
+    <div class="medium-3 columns" style="height: 200px; padding: 0px"><a href="pictures/sunset.jpg"><img src="thumbs/sunset.png" /></a></div>
 </div>
 
 
