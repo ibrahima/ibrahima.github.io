@@ -37,7 +37,14 @@ keywords: github pages, Jekyll, foundation 5
     </div>
 
     <div class="large-4 columns">
-        <p></p>
+        <h3>Posts</h3>
+        <ul>
+        {% for post in site.posts %}
+            <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
     </div>
 
 </div>

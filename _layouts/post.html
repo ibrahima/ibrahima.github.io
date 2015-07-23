@@ -87,12 +87,20 @@
 
         <div class="row">
           <section role="main">
-            <div class="small-12 columns">
+            <div class="small-10 small-centered columns">
 
               {{ content }}
 
             </div>
           </section>
+          <section role="comments">
+            <script src="https://apis.google.com/js/plusone.js"></script>
+            <div class="g-comments"
+                 data-href="{{site.baseurl}}{{page.url}}"
+                 data-width="642"
+                 data-first_party_property="BLOGGER"
+                 data-view_type="FILTERED_POSTMOD">
+            </div>
         </div>
 
 
@@ -125,9 +133,9 @@
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="bower_components/jquery/jquery.js"><\/script>')</script>
-    <script src="js/plugins.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="/js/plugins.js"></script>
+    <script src="/bower_components/foundation/js/foundation.min.js"></script>
+    <script src="/js/script.js"></script>
 
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
